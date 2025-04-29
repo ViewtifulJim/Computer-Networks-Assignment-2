@@ -4,3 +4,6 @@
 - `colorama` library
 
 Install dependencies using pip:
+
+```bash
+pip install colorama
