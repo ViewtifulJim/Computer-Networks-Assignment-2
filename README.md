@@ -1,11 +1,6 @@
-🛠 Requirements
-Python 3.7+
+## 🛠 Requirements
 
-colorama library
+- Python 3.7+
+- `colorama` library
 
 Install dependencies using pip:
-
-bash
-Copy
-Edit
-pip install colorama
